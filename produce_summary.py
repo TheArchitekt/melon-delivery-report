@@ -38,3 +38,5 @@ for line in the_file:
 
     print(f"Delivered {count} {melon}s for total of ${amount}")
 the_file.close()
+
+def number_of_melons(day, filepath):
